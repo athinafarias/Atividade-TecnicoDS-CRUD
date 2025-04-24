@@ -1,4 +1,4 @@
-<h1 align="center">🎓 Projeto Técnico: Portfólio</h1>
+<h1 align="center">🎓 Projeto Técnico: CRUD</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Feito%20com-Node.js-blue?style=flat" />
